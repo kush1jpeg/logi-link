@@ -1,15 +1,15 @@
-# Project Contributors  
+## Project Contributors  
 
-## React.js Development  
+### React.js Development  
 **Kushagra**  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/kushagra-gupta-62312927a/)  
+[🔗 LinkedIn Profile](#)  
 
-## Chatbot using Python and Flask  
+### Chatbot using Python and Flask  
 **Ojas**  
-🔗 [GitHub Repository](https://github.com/ultfone)  
+[🔗 GitHub Repository](#)  
 
-## UI/UX Design  
+### UI/UX Design  
 **Zeeshan**  
-🔗 [GitHub Profile](https://github.com/LeeFred3042U)  
+[🔗 GitHub Profile](#)  
 
-~(Easter Egg : Click the YouTube button in the footer of the website !)~
+*(Easter Egg: Click the YouTube button in the footer of the website!)*  
